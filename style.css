@@ -61,7 +61,7 @@ margin: auto;
 }
 
 .s1{
-    background-image: url(pexels-photo-356056.png);
+    background-image: url(image/s1/pexels-photo-356056.png);
     box-sizing: border-box;
     background-size: 100%;
     background-color:rgb(20, 20, 20);
@@ -694,7 +694,7 @@ justify-content: center;
 footer{
     background-color: #212121;
     padding-bottom: 90px;
-    background-image: url(footer/rawpixel-com-252127.png);
+    background-image: url(image/footer/rawpixel-com-252127.png);
     background-size: 100%;
 }
 
